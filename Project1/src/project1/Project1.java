@@ -8,8 +8,8 @@ package project1;
 import java.util.Scanner;
 
 /**
- *
- * @author katea
+ * Algoritmo Arbol 
+ * @author kalexandra27
  */
 public class Project1 {
    
